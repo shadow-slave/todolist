@@ -260,6 +260,7 @@ input:checked ~ .bubble::after {
 
 .todo-item .actions button:hover {
 	opacity: 0.75;
+	background-color: rgb(105, 121, 97);
 }
 
 /* Strike through completed todos */
@@ -341,4 +342,5 @@ input:checked ~ .bubble::after {
 		font-size: 2rem;
 		font-weight: 600;
 	}
+	
 }
