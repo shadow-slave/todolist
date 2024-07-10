@@ -9,7 +9,12 @@
 5. Contributing
 6. License
 
-## Demo
+## DEMO IMAGES 
+<div>
+<img src="https://github.com/shadow-slave/todolist/assets/148051614/bdfc9cfc-1a62-4448-b83e-c944dc4ab1db" height=250 width=300 />
+<img src="https://github.com/shadow-slave/todolist/assets/148051614/9bff13be-d2e0-46bc-8735-edac606e64c1" height=250 width=300 />
+<img src="https://github.com/shadow-slave/todolist/assets/148051614/75124e0e-a16f-442c-833f-f6158d01c26d" height=250 width=300 />
+</div>
 
 ## Features
 1. Create new todos with categories (Business/Personal).
